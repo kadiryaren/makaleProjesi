@@ -1771,3 +1771,18 @@ hr.invis3 {
 .big{
     width: 300px !important;
 }
+.carosulel-slider-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 20vh;
+    width: 100vw;
+    margin-top: 10vh;
+    min-width: 80vw !important;
+
+}
+.innerSlider{
+    min-width: 70vw;
+    max-width: 70vw;
+    
+}
